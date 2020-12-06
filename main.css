@@ -1,0 +1,118 @@
+
+.main{
+
+ background-color: rgb(75, 70, 63);
+  position: relative;
+  height: 100vh;
+
+background-color: rgb(110, 43, 43);
+overflow: hidden;
+  background-repeat: no-repeat;
+ 
+}
+
+
+.gamersreview{
+  position: absolute;
+  border: solid 5px black;
+  background-color: #1f4875;
+  top: 0px;
+  
+  right: 0px;
+  height: 99%;
+  width: 15%;
+  
+  
+  
+
+}
+.gamersforum{
+  position: absolute;
+  border:solid 5px black;
+  background-color: #1f4875;
+ 
+  
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 15%;
+
+}
+
+h3{
+  text-align: center;
+
+}
+header{
+  text-align: center;
+}
+
+footer{
+  bottom: 0px;
+  box-shadow: 2px 2px;
+  width: 100%;
+  background-color: #D2B48C;
+  padding-bottom: 10px;
+  border-top: 200px #221811;
+  font-size: .60em;
+  font-style: italic;
+ /* min-width: 900px;
+ /*max-width: 1280px;*/
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  overflow: hidden;
+
+}
+.playstation{
+  position: absolute;
+  border:solid 5px black;
+  background-color: rgb(197, 200, 224);
+  bottom: 0px;
+  left: 300px;
+  height: 50%;
+  width: 15%;
+
+}
+
+.xbox{
+
+position: absolute;
+  border:solid 5px black;
+  background-color: rgb(197, 200, 224);
+  bottom: 0px;
+  left: 640px;
+  height: 50%;
+  width: 15%;
+}
+
+.nintendo{
+
+position: absolute;
+  border:solid 5px rgb(10, 1, 1);
+  background-color: rgb(197, 200, 224);
+  bottom: 0px;
+  left: 970px;
+  height: 50%;
+  width: 15%;
+}
+
+img {
+  border: 5px solid rgb(8, 0, 0);
+  
+}
+.ps5img {
+ 
+  margin-top: 60px;
+  margin-left: 295px ;
+  
+}
+.xboximg{
+  height: 50px;
+  margin-left: 640px;
+  margin-top: -150px;
+}
+.nintendoimg{
+ margin-left: 970px;
+ margin-top: -49px;
+}
